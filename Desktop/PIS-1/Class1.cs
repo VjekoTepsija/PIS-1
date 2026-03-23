@@ -9,5 +9,6 @@ namespace PIS_1
     internal class Class1
     {
         void empty() { }
+        Console.WriteLine("Novo");
     }
 }
